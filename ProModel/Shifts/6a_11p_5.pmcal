@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Calendar>
+  <Version>2.0.0.6</Version>
+  <DisplayDate>6/7/2011 4:07:06 PM</DisplayDate>
+  <Shifts>
+    <BaseShift>
+      <Name>C:\Users\pmtest\Desktop\shifts\6a_11p_5.sft</Name>
+      <Guid>fad47b9a-425a-4209-a343-1dc49b6ccc18</Guid>
+      <Color>-1</Color>
+      <Data>s:1.6.0-1.23.0</Data>
+      <Data>s:2.6.0-2.23.0</Data>
+      <Data>s:3.6.0-3.23.0</Data>
+      <Data>s:4.6.0-4.23.0</Data>
+      <Data>s:5.6.0-5.23.0</Data>
+    </BaseShift>
+  </Shifts>
+  <Exceptions />
+</Calendar>

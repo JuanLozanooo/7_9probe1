@@ -1,0 +1,12 @@
+TSI Category,Code,Percent,Cumm %
+High Priority,1,0.25,0.25
+Medium Priority,2,0.25,0.5
+Low Priority,3,0.25,0.75
+TSI Unknown,4,0.25,1
+,5,0,1
+,6,0,1
+,7,0,1
+,8,0,1
+,9,0,1
+,10,0,1
+Total Options,4,1,1

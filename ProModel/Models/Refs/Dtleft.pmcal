@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Calendar>
+  <Version>2.0.0.7</Version>
+  <DisplayDate>8/24/2012 1:55:28 PM</DisplayDate>
+  <Shifts>
+    <BaseShift>
+      <Name>C:\Users\pmtest\Desktop\Refs\Dtleft.sft</Name>
+      <Guid>b4ae8500-fe06-4e6a-9deb-0d7c4b8708c4</Guid>
+      <Color>-1</Color>
+      <Data>s:1.8.0-1.17.0</Data>
+      <Data>b:1.8.15-1.8.30</Data>
+      <Data>b:1.9.0-1.9.20</Data>
+      <Data>b:1.10.0-1.10.15</Data>
+      <Data>b:1.11.0-1.11.20</Data>
+      <Data>b:1.12.0-1.13.0</Data>
+      <Data>b:1.13.30-1.13.45</Data>
+      <Data>b:1.14.30-1.14.50</Data>
+      <Data>b:1.15.0-1.15.15</Data>
+      <Data>b:1.16.0-1.16.20</Data>
+      <Data>s:2.8.0-2.17.0</Data>
+      <Data>b:2.8.15-2.8.30</Data>
+      <Data>b:2.9.0-2.9.20</Data>
+      <Data>b:2.10.0-2.10.15</Data>
+      <Data>b:2.11.0-2.11.20</Data>
+      <Data>b:2.12.0-2.13.0</Data>
+      <Data>b:2.13.30-2.13.45</Data>
+      <Data>b:2.14.30-2.14.50</Data>
+      <Data>b:2.15.0-2.15.15</Data>
+      <Data>b:2.16.0-2.16.20</Data>
+      <Data>s:3.8.0-3.17.0</Data>
+      <Data>b:3.8.15-3.8.30</Data>
+      <Data>b:3.9.0-3.9.20</Data>
+      <Data>b:3.10.0-3.10.15</Data>
+      <Data>b:3.11.0-3.11.20</Data>
+      <Data>b:3.12.0-3.13.0</Data>
+      <Data>b:3.13.30-3.13.45</Data>
+      <Data>b:3.14.30-3.14.50</Data>
+      <Data>b:3.15.0-3.15.15</Data>
+      <Data>b:3.16.0-3.16.20</Data>
+      <Data>s:4.8.0-4.17.0</Data>
+      <Data>b:4.8.15-4.8.30</Data>
+      <Data>b:4.9.0-4.9.20</Data>
+      <Data>b:4.10.0-4.10.15</Data>
+      <Data>b:4.11.0-4.11.20</Data>
+      <Data>b:4.12.0-4.13.0</Data>
+      <Data>b:4.13.30-4.13.45</Data>
+      <Data>b:4.14.30-4.14.50</Data>
+      <Data>b:4.15.0-4.15.15</Data>
+      <Data>b:4.16.0-4.16.20</Data>
+      <Data>s:5.8.0-5.17.0</Data>
+      <Data>b:5.8.15-5.8.30</Data>
+      <Data>b:5.9.0-5.9.20</Data>
+      <Data>b:5.10.0-5.10.15</Data>
+      <Data>b:5.11.0-5.11.20</Data>
+      <Data>b:5.12.0-5.13.0</Data>
+      <Data>b:5.13.30-5.13.45</Data>
+      <Data>b:5.14.30-5.14.50</Data>
+      <Data>b:5.15.0-5.15.15</Data>
+      <Data>b:5.16.0-5.16.20</Data>
+    </BaseShift>
+  </Shifts>
+  <Exceptions />
+</Calendar>

@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Calendar>
+  <Version>2.0.0.7</Version>
+  <DisplayDate>8/24/2012 1:58:00 PM</DisplayDate>
+  <Shifts>
+    <BaseShift>
+      <Name>C:\Users\pmtest\Desktop\Refs\priority.sft</Name>
+      <Guid>42419144-5cbb-48cb-aa6f-c3f777b72f77</Guid>
+      <Color>-1</Color>
+      <Data>s:1.8.0-1.19.5</Data>
+      <Data>b:1.8.30-1.10.30</Data>
+      <Data>b:1.11.0-1.13.0</Data>
+      <Data>b:1.13.35-1.15.35</Data>
+      <Data>b:1.15.55-1.18.0</Data>
+      <Data>s:2.8.0-2.19.5</Data>
+      <Data>b:2.8.30-2.10.30</Data>
+      <Data>b:2.11.0-2.13.0</Data>
+      <Data>b:2.13.35-2.15.35</Data>
+      <Data>b:2.15.55-2.18.0</Data>
+      <Data>s:3.8.0-3.19.5</Data>
+      <Data>b:3.8.30-3.10.30</Data>
+      <Data>b:3.11.0-3.13.0</Data>
+      <Data>b:3.13.35-3.15.35</Data>
+      <Data>b:3.15.55-3.18.0</Data>
+      <Data>s:4.8.0-4.19.5</Data>
+      <Data>b:4.8.30-4.10.30</Data>
+      <Data>b:4.11.0-4.13.0</Data>
+      <Data>b:4.13.35-4.15.35</Data>
+      <Data>b:4.15.55-4.18.0</Data>
+      <Data>s:5.8.0-5.19.5</Data>
+      <Data>b:5.8.30-5.10.30</Data>
+      <Data>b:5.11.0-5.13.0</Data>
+      <Data>b:5.13.35-5.15.35</Data>
+      <Data>b:5.15.55-5.18.0</Data>
+    </BaseShift>
+  </Shifts>
+  <Exceptions />
+</Calendar>

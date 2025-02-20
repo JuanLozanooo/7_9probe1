@@ -1,0 +1,12 @@
+Instruction Type,Code,Percent,Cumm %
+Security Trade,1,0.1,0.1
+Security Transfer,2,0.1,0.2
+Foreign Exchange Trade,3,0.2,0.4
+MBS/ABS,4,0.1,0.5
+Futures/Options Trade,5,0.1,0.6
+Forward Contract,6,0.15,0.75
+Capital Stock/Estimate,7,0.1,0.85
+Free Cash Mov/Expense Disb.,8,0.1,0.95
+FTM-Non-eligible,9,0.05,1
+,10,0,1
+Total Options,9,1,1

@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Calendar>
+  <Version>2.0.0.7</Version>
+  <DisplayDate>8/24/2012 1:57:14 PM</DisplayDate>
+  <Shifts>
+    <BaseShift>
+      <Name>C:\Users\pmtest\Desktop\Refs\Getresrt.sft</Name>
+      <Guid>340c9e50-a5ee-4821-a6da-133f500d3e93</Guid>
+      <Color>-1</Color>
+      <Data>s:1.8.0-1.16.0</Data>
+      <Data>s:2.8.0-2.16.0</Data>
+      <Data>s:3.8.0-3.16.0</Data>
+      <Data>s:4.8.0-4.16.0</Data>
+      <Data>s:5.8.0-5.16.0</Data>
+    </BaseShift>
+  </Shifts>
+  <Exceptions />
+</Calendar>

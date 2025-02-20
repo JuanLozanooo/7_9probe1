@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Calendar>
+  <Version>2.0.0.6</Version>
+  <DisplayDate>6/8/2011 11:08:54 AM</DisplayDate>
+  <Shifts>
+    <BaseShift>
+      <Name>C:\Users\pmtest\Desktop\shifts\120p_10p_7_130.sft</Name>
+      <Guid>e8f51c69-96b4-41e6-8e70-68ac3babb6ef</Guid>
+      <Color>-1</Color>
+      <Data>s:0.13.20-0.22.0</Data>
+      <Data>b:0.19.0-0.19.30</Data>
+      <Data>s:1.13.20-1.22.0</Data>
+      <Data>b:1.19.0-1.19.30</Data>
+      <Data>s:2.13.20-2.22.0</Data>
+      <Data>b:2.19.0-2.19.30</Data>
+      <Data>s:3.13.20-3.22.0</Data>
+      <Data>b:3.19.0-3.19.30</Data>
+      <Data>s:4.13.20-4.22.0</Data>
+      <Data>b:4.19.0-4.19.30</Data>
+      <Data>s:5.13.20-5.22.0</Data>
+      <Data>b:5.19.0-5.19.30</Data>
+      <Data>s:6.13.20-6.22.0</Data>
+      <Data>b:6.19.0-6.19.30</Data>
+    </BaseShift>
+  </Shifts>
+  <Exceptions />
+</Calendar>

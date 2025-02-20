@@ -1,0 +1,21 @@
+Shift File Naming Convention
+
+XX_YY_Z_ABBB
+
+X= Starting time e.g 7a, 12p, etc.
+Y= Ending time  e.g 7a, 12p, etc.
+Z= Number of working days in the week
+A= Number of breaks including lunch
+B= Total number of minutes of break in a day (note: this includes lunch)
+
+
+Example:
+
+Shift definition:
+
+Monday through Friday 8:00 AM to 5:00 PM,   There is a half hour lunch and 
+2 fifteen minute breaks each day.
+
+The name of the example shift file would be:
+
+8a_5p_5_360

@@ -1,0 +1,12 @@
+Q2 Processing Times,,,
+Instruction Type,Code,Minutes,Default
+Security Trade,1,1,0.5
+Security Transfer,2,1,0.5
+Foreign Exchange Trade,3,1,0.5
+MBS/ABS,4,1,0.5
+Futures/Options Trade,5,1,0.5
+Forward Contract,6,1,0.5
+Capital Stock/Estimate,7,1,0.5
+Free Cash Mov/Expense Disb.,8,1,0.5
+Filler,9,0.0001,0.0001
+Filler,10,0.0001,0.0001

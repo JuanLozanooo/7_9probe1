@@ -1,0 +1,12 @@
+Inbound Fax Number,Code,Percent,Cumm %
+Group A,1,0.25,0.25
+Group B,2,0.25,0.5
+Group C,3,0.25,0.75
+Group D,4,0.25,1
+,5,0,1
+,6,0,1
+,7,0,1
+,8,0,1
+,9,0,1
+,10,0,1
+Total Options,4,1,1
